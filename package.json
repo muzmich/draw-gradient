@@ -1,5 +1,5 @@
 {
-  "name": "multi-touch-test",
+  "name": "draw-gradient",
   "version": "1.0.0",
   "description": "Code doodle with allows you to draw using blended colors",
   "main": "index.ts",
